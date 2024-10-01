@@ -163,3 +163,4 @@ cython_debug/
 downloaded*
 .DS_Store
 *.csv
+.idea/
